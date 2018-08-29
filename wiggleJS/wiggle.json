@@ -1,0 +1,12 @@
+{
+    "gridSize": 30,
+    "fps": 30,
+
+    "snakes":{
+        "amount": 5,
+        "length": 35,
+        "width": 5
+    },
+
+    "bground": "#0d0f1c"
+}

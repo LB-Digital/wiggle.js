@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+
+
+
+<div id="wiggle"></div>
+
+<div id="titles">
+  <h1>wiggle.js</h1>
+  <p>Just some random snakes really... by <a href="//lucasbowers.com">BowersDevelopment</a></p>
+  <a href="https://github.com/BowersDev/wiggle.js"><img src="assets/images/github.png" width="60px"></a>
+</div>
+
+
+
+<script src="wiggleJS/wiggle.js"></script>
+<script>
+
+
+wiggle('wiggleJS/wiggle.json', 'wiggle', function(wiggleInstanceId){
+    console.log('Wiggle initialized with id #' + wiggleInstanceId);
+});
+
+</script>
+
+
+</body>
+</html>
