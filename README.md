@@ -2,7 +2,7 @@
 Random moving, configurable snakes that can be placed inside any container you wish, just please ensure they have enough space or I'll have no choice but to contact animal control!
 
 ## DEMO
-An example of this Particle library can be found at http://dev.lucasbowers.com/wiggle/
+An example of this project can be found at http://dev.lucasbowers.com/wiggle/
 <a href="http://dev.lucasbowers.com/wiggle/" target="_blank"><img src="http://dev.lucasbowers.com/wiggle/assets/images/preview.gif" alt="Live demo page" /></a>
 (The above image is a GIF. Click it for a full quality example)
 
